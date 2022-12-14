@@ -1,0 +1,64 @@
+#menu2 ul {
+    list-style-type: none;
+    width: 200px;
+}
+
+ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+#menu2 li {
+    margin-bottom: 5px;
+}
+
+user agent stylesheet li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+#menu2 a:link,
+#menu2 a:visited {
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    color: blue;
+    font: 13px Arial;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 13px;
+    line-height: 30px;
+    font-family: Arial;
+    border: 1px solid blue;
+    border-top-color: blue;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: blue;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: blue;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: blue;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    display: block;
+    padding: 0px 5px;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    padding-left: 5px;
+    line-height: 30px;
+}
